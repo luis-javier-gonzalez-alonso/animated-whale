@@ -5,7 +5,7 @@ theme = 'startpage'
 publishdir = './docs/'
 
 [[params.searchEngines]]
-  name = "DuckDuckGo"
+  name = "Stack Overflow"
   activated = true
-  url = "https://duckduckgo.com/"
-
+  url = "https://stackoverflow.com/search"
+  searchkey = "q"
