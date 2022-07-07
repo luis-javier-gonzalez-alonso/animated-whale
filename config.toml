@@ -2,8 +2,7 @@ baseURL = 'localhost:1313'
 languageCode = 'en-us'
 title = 'Marvelous beginnings'
 theme = 'startpage'
-
-welcomeText = "Startpage!"
+publishdir = './docs/'
 
 [[params.searchEngines]]
   name = "DuckDuckGo"
