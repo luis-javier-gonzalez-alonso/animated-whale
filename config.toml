@@ -1,6 +1,6 @@
-baseURL = 'localhost:1313'
+baseURL = 'https://luis-javier-gonzalez-alonso.github.io/animated-whale/'
 languageCode = 'en-us'
-title = 'Marvelous beginnings'
+title = 'Start here'
 theme = 'startpage'
 publishdir = './docs/'
 
