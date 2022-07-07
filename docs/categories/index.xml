@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Marvelous beginnings</title>
-    <link>localhost:1313/categories/</link>
-    <description>Recent content in Categories on Marvelous beginnings</description>
+    <title>Categories on Start here</title>
+    <link>https://luis-javier-gonzalez-alonso.github.io/animated-whale/categories/</link>
+    <description>Recent content in Categories on Start here</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://luis-javier-gonzalez-alonso.github.io/animated-whale/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

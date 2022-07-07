@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>https://luis-javier-gonzalez-alonso.github.io/animated-whale/categories/</loc>
   </url><url>
-    <loc>localhost:1313/</loc>
+    <loc>https://luis-javier-gonzalez-alonso.github.io/animated-whale/</loc>
   </url><url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>https://luis-javier-gonzalez-alonso.github.io/animated-whale/tags/</loc>
   </url>
 </urlset>
