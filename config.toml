@@ -1,0 +1,12 @@
+baseURL = 'localhost:1313'
+languageCode = 'en-us'
+title = 'Marvelous beginnings'
+theme = 'startpage'
+
+welcomeText = "Startpage!"
+
+[[params.searchEngines]]
+  name = "DuckDuckGo"
+  activated = true
+  url = "https://duckduckgo.com/"
+
