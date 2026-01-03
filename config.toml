@@ -1,11 +1,11 @@
-baseURL = 'https://luis-javier-gonzalez-alonso.github.io/animated-whale/'
-languageCode = 'en-us'
+baseURL = 'https://home.ljga.net'
+languageCode = 'en-gb'
 title = 'Start here'
 theme = 'startpage'
 publishdir = './docs/'
 
-[[params.searchEngines]]
-  name = "Stack Overflow"
-  activated = true
-  url = "https://stackoverflow.com/search"
-  searchkey = "q"
+# [[params.searchEngines]]
+#   name = "Stack Overflow"
+#   activated = true
+#   url = "https://stackoverflow.com/search"
+#   searchkey = "q"
