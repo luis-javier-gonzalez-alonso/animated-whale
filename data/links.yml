@@ -7,7 +7,15 @@
     - title: GitHub
       url: https://github.com/luis-javier-gonzalez-alonso
       icon: fab fa-github
+    - title: Google Play Console
+      url: https://play.google.com/console
+      icon: fab fa-solid fa-black-tie
+    - title: Projects
+      url: https://projects.ljga.net
+      icon: fab fa-cube
     - title: Blog
       url: https://luis-javier-gonzalez-alonso.github.io/grumpy-okapi/
       icon: fab fa-solid fa-black-tie
-
+    - title: CivitAI
+      url: https://civitai.com/
+      icon: fab fa-exclamation-triangle
