@@ -1,5 +1,0 @@
-[submodule "themes/startpage"]
-	path = themes/startpage
-	url = https://github.com/luis-javier-gonzalez-alonso/hugo-theme-startpage.git
-	branch = tweaked-for-animated-whale
-

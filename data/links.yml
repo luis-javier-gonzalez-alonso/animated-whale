@@ -4,18 +4,20 @@
     - title: Trello
       url: https://trello.com/b/TRlGtYNt/top-level-projects
       icon: fab fa-trello
+    - title: Projects
+      url: https://projects.ljga.net
+      icon: fa fa-solid fa-cube
+
     - title: GitHub
       url: https://github.com/luis-javier-gonzalez-alonso
       icon: fab fa-github
-    - title: Google Play Console
-      url: https://play.google.com/console
-      icon: fab fa-solid fa-black-tie
-    - title: Projects
-      url: https://projects.ljga.net
-      icon: fab fa-cube
     - title: Blog
       url: https://luis-javier-gonzalez-alonso.github.io/grumpy-okapi/
       icon: fab fa-solid fa-black-tie
+
+    - title: Google Play Console
+      url: https://play.google.com/console
+      icon: fab fa-brands fa-google-play
     - title: CivitAI
       url: https://civitai.com/
-      icon: fab fa-exclamation-triangle
+      icon: fa fa-solid fa-palette
