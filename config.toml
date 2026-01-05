@@ -1,6 +1,6 @@
 baseURL = 'https://home.ljga.net'
 languageCode = 'en-gb'
-title = 'Start here'
+title = 'LJGA // Home'
 theme = 'startpage'
 publishdir = './docs/'
 
