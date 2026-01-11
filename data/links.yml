@@ -4,20 +4,29 @@
     - title: Trello
       url: https://trello.com/b/TRlGtYNt/top-level-projects
       icon: fab fa-trello
-    - title: Projects
-      url: https://projects.ljga.net
-      icon: fa fa-solid fa-cube
+    - title: Web
+      url: https://www.ljga.net
+      icon: fa fa-solid fa-globe
+    - title: OpenArt
+      url: https://openart.ai/
+      icon: fa fa-solid fa-infinity
 
     - title: GitHub
       url: https://github.com/luis-javier-gonzalez-alonso
       icon: fab fa-github
-    - title: Blog
-      url: https://luis-javier-gonzalez-alonso.github.io/grumpy-okapi/
-      icon: fab fa-solid fa-black-tie
+    - title: Projects
+      url: https://projects.ljga.net
+      icon: fa fa-solid fa-cube
+    - title: CivitAI
+      url: https://civitai.com/
+      icon: fa fa-solid fa-palette
 
     - title: Google Play Console
       url: https://play.google.com/console
       icon: fab fa-brands fa-google-play
-    - title: CivitAI
-      url: https://civitai.com/
-      icon: fa fa-solid fa-palette
+    - title: Blog
+      url: https://luis-javier-gonzalez-alonso.github.io/grumpy-okapi/
+      icon: fab fa-solid fa-black-tie
+    - title: Hugging Face
+      url: https://huggingface.co/
+      icon: fa fa-solid fa-robot
